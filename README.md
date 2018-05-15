@@ -1,4 +1,7 @@
-# Usage:
+A sample Tornado application to implement translations with WTForms.
+
+
+### Usage:
 
 Run the server with this command:
 
@@ -12,11 +15,11 @@ You should see the error message.
 Change your browser language to see the error message in different languages.
 
 
-# Tested on
+### Tested on
 
  + Python 3.6
 
-# Requirements
+### Requirements
 
  + Tornado
  + WTForms
