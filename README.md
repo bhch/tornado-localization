@@ -12,7 +12,7 @@ Visit `http://127.0.0.1:8888/` in your browser and submit the form there.
 
 You should see the error message.
 
-Change your browser language to see the error message in different languages.
+Change your browser language to see the error message in different languages. Translations are available in `French`, `German` and `Spanish`. 
 
 
 ### Tested on
